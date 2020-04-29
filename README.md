@@ -1,4 +1,4 @@
-# Tic_tac_toe_Reinforcment_learning_agent
+# Tic_tac_toe_Reinforcement_learning_agent
 * ## Idea ![](https://github.com/Antanskas/Sentiment_analysis/blob/master/repository_images/idea.png)
   * To build tic-tac-toe game agents to be able to play and win tic tac toe game learning by playing thousands of games and getting rewards while winning.  
   

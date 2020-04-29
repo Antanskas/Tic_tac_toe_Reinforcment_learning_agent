@@ -14,6 +14,9 @@
 * ## Usabilities
   * To train: state.train()
   * To test: state.playRandom()
-  * To play yourself agains trained agent: state.playHuman()
+  * To play yourself agains trained agent: state.playHuman()  
+  
+  ![](https://github.com/Antanskas/Tic_tac_toe_Reinforcment_learning_agent/blob/master/src/board.PNG)
  
 * ## Results 
+![](https://github.com/Antanskas/Tic_tac_toe_Reinforcment_learning_agent/blob/master/src/test.PNG)
